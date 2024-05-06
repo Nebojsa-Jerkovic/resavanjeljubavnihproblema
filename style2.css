@@ -1,0 +1,67 @@
+h1 {
+	background:powderblue;
+	color:indigo;
+	margin: auto;
+	border-radius: 10px;
+	font-family: Arial, Vedrana;
+	font-size: 30px;
+	padding-left:15px;
+	padding-right:100px;
+}
+
+#h1_gornji {
+    color:indigo;
+	margin: auto;
+	font-family: Arial, Vedrana;
+	font-size:25px;
+	padding-left:15px;
+	padding-right:100px;
+	 
+	 }
+#h1_srednji {
+    color:red;
+	padding-left:15px;	
+    margin: auto;
+    font-family: Arial, Vedrana;
+    font-size: 80px;
+	padding-right:100px;
+	     
+}
+
+#h1_donji {
+	padding-left:15px;
+    color:black;
+	font-family: Arial, Vedrana;
+	padding-right:100px;
+
+}
+
+p {
+    
+	color:black;
+    font-family: Arial, Vedrana;
+	font-size: 20px;
+	padding-left:15px;
+	padding-right:100px;
+	
+	
+}
+
+
+body {
+    
+	background-color: AntiqueWhite;
+	background-position:top;
+	font-size:20px;
+	   
+}
+	
+a {padding-left:10px; padding-right:8px;font-family: Arial, Vedrana;color:black; font-size: 18px; }
+iframe { padding-left:15px;padding-right:100px;}
+
+img { 
+	margin: auto;
+	border-radius: 20px;
+}
+
+
